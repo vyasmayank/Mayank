@@ -1,0 +1,23 @@
+int main()
+{
+    int n;
+    printf("enter the value of n");
+    scanf("%d",&n);
+    printf("the number is %d",n);
+    return 0;
+}
+
+what is a variable?
+a variable ia a name in which we assign a value and it is refered to some location in memory.
+
+what is & operator?
+it is the address of variable.
+
+what is %d?
+%d is an identifier which is used in prinf and scanf.
+
+what is compilation of program means?
+it converts high level language to machine level language.
+
+what is meant by running a program?
+it means to excitute the code which is written.
